@@ -1,4 +1,7 @@
-# EXPERIMENT NO 05 INTERFACING ANALOG OUTPUT SERVO MOTOR WITH ARDUINO
+# EXPERIMENT NO 05 
+## INTERFACING ANALOG OUTPUT SERVO MOTOR WITH ARDUINO
+Name:Jeeva Abishake A
+REG NO.: 212221240018
 
 ### AIM
 To interface an Analog output (servo motor) and modify the angular displacement of the servo using PWM signal .
